@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Emscripten",
+    "toolchainFile": "/Users/eddyc/Documents/Software/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake",
+    "cmakeSettings": {
+      "-DEMSCRIPTEN_GENERATE_BITCODE_STATIC_LIBRARIES": "1"
+    }
+  }
+]
